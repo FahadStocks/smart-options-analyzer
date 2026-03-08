@@ -1,0 +1,9 @@
+# Requirements for the Options Analyzer Project
+
+numpy
+pandas
+matplotlib
+scikit-learn
+requests
+
+# Add other dependencies as needed
